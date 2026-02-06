@@ -45,7 +45,7 @@ export const courses = [
     students: 1250,
     category: 'Web Development',
     thumbnail: 'https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/gojol.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=CSCnZdSLoA4',
     lessons: 150,
     // Add video lessons
     videoLessons: [
@@ -68,7 +68,7 @@ export const courses = [
     students: 890,
     category: 'Web Development',
     thumbnail: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/react-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=SqcY0GlETPk',
     lessons: 80,
     videoLessons: [
       { id: '2-1', title: 'React Overview', duration: '12:10', isPreview: true, youtubeVideoId: 'SqcY0GlETPk' },
@@ -89,7 +89,7 @@ export const courses = [
     students: 2100,
     category: 'Data Science',
     thumbnail: 'https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/python-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=rfscVS0vtbw',
     lessons: 120,
     videoLessons: [
       { id: '3-1', title: 'Course Introduction', duration: '09:40', isPreview: true, youtubeVideoId: 'rfscVS0vtbw' },
@@ -110,7 +110,7 @@ export const courses = [
     students: 650,
     category: 'Mobile Development',
     thumbnail: 'https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/ios-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=comQ1-x2a1Q',
     lessons: 100,
     videoLessons: [
       { id: '4-1', title: 'Welcome & Setup', duration: '11:20', isPreview: true, youtubeVideoId: 'comQ1-x2a1Q' },
@@ -130,7 +130,7 @@ export const courses = [
     students: 1800,
     category: 'Marketing',
     thumbnail: 'https://images.pexels.com/photos/1181555/pexels-photo-1181555.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/marketing-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=n1uWnZqz6Zk',
     lessons: 60,
     videoLessons: [
       { id: '5-1', title: 'Marketing Foundations', duration: '10:05', isPreview: true, youtubeVideoId: 'n1uWnZqz6Zk' },
@@ -150,7 +150,7 @@ export const courses = [
     students: 920,
     category: 'Design',
     thumbnail: 'https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/design-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=Ovj4hFxko7c',
     lessons: 45,
     videoLessons: [
       { id: '6-1', title: 'What is UX?', duration: '08:55', isPreview: true, youtubeVideoId: 'Ovj4hFxko7c' },
@@ -170,7 +170,7 @@ export const courses = [
     students: 540,
     category: 'Income Tax',
     thumbnail: 'https://images.pexels.com/photos/4386374/pexels-photo-4386374.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/tax-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=t6sF-F3bq9U',
     lessons: 35,
     videoLessons: [
       { id: '7-1', title: 'Overview of Bangladeshi Tax System', duration: '14:10', isPreview: true, youtubeVideoId: 't6sF-F3bq9U' },
@@ -190,7 +190,7 @@ export const courses = [
     students: 320,
     category: 'Income Tax',
     thumbnail: 'https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/corporate-tax.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=4qjgpQx6l2c',
     lessons: 48,
     videoLessons: [
       { id: '8-1', title: 'Corporate Tax Basics', duration: '18:30', isPreview: true, youtubeVideoId: '4qjgpQx6l2c' },
@@ -209,7 +209,7 @@ export const courses = [
     students: 780,
     category: 'SEO',
     thumbnail: 'https://images.pexels.com/photos/1181460/pexels-photo-1181460.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/seo-fundamentals.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=fAGt0kPOi8U',
     lessons: 40,
     videoLessons: [
       { id: '9-1', title: 'How Search Engines Work', duration: '11:05', isPreview: true, youtubeVideoId: 'fAGt0kPOi8U' },
@@ -229,7 +229,7 @@ export const courses = [
     students: 410,
     category: 'SEO',
     thumbnail: 'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/seo-advanced.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=aqpSkiGq5vE',
     lessons: 55,
     videoLessons: [
       { id: '10-1', title: 'Site Audits & Core Web Vitals', duration: '19:25', isPreview: true, youtubeVideoId: 'aqpSkiGq5vE' },
@@ -248,7 +248,7 @@ export const courses = [
     students: 960,
     category: 'Software Engineer Interview Preparations',
     thumbnail: 'https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/dsa-intro.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=Mo4vesaut8g',
     lessons: 100,
     videoLessons: [
       { id: '11-1', title: 'Big-O & Complexity Basics', duration: '16:40', isPreview: true, youtubeVideoId: 'Mo4vesaut8g' },
@@ -268,7 +268,7 @@ export const courses = [
     students: 530,
     category: 'Software Engineer Interview Preparations',
     thumbnail: 'https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/system-design.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=ZgdS0EUmn70',
     lessons: 60,
     videoLessons: [
       { id: '12-1', title: 'System Design Basics', duration: '20:15', isPreview: true, youtubeVideoId: 'ZgdS0EUmn70' },
@@ -287,7 +287,7 @@ export const courses = [
     students: 710,
     category: 'Job Interview Preparation for BBA/MBA',
     thumbnail: 'https://images.pexels.com/photos/1181572/pexels-photo-1181572.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/job-interview-bba.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=o9aFviZgcoe',
     lessons: 45,
     videoLessons: [
       { id: '13-1', title: 'Understanding MNC Hiring Process', duration: '13:05', isPreview: true, youtubeVideoId: 'o9aFviZgcoe' },
@@ -306,7 +306,7 @@ export const courses = [
     students: 480,
     category: 'Job Interview Preparation for BBA/MBA',
     thumbnail: 'https://images.pexels.com/photos/1181395/pexels-photo-1181395.jpeg?auto=compress&cs=tinysrgb&w=800',
-    videoUrl: '/videos/case-study-bba.mp4',
+    videoUrl: 'https://www.youtube.com/watch?v=iFbn-nVq730',
     lessons: 50,
     videoLessons: [
       { id: '14-1', title: 'Solving Business Case Studies', duration: '24:45', isPreview: true, youtubeVideoId: 'iFbn-nVq730' },
